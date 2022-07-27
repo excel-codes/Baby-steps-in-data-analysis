@@ -1,4 +1,5 @@
 # Project name : Baby-steps-in-data-analysis
+
 The project is my first project in the 30 days of learning data analysis module by Onyibooke.
 --------
 # Problem statement
@@ -9,3 +10,4 @@ The data was downloaded as a Microsoft excel file from the Github account of Ony
 ----------
 # Data Cleaning
 The data was cleaned so there was no further cleaning done to the data.The data was sorted using pivot tables to obtain various insights.
+----------
